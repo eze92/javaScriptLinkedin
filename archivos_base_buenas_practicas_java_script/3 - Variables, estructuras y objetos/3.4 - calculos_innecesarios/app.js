@@ -9,5 +9,6 @@ en una variable y asi se va ejecutar una sola vez en vez de cada iteracion
 del for */
 
 for (var i = 0; i < totalAnimales; i++) {
-	console.log(animales[i]); // si yo no le agrego la posicion del arreglo pop pantala me mostrara el arreglo completo
+	console.log(animales[i]); 
+	// si yo no le agrego la posicion del arreglo pop pantala me mostrara el arreglo completo
 };
