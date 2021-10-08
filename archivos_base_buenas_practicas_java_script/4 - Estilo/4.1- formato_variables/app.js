@@ -1,6 +1,6 @@
-var nombreCompleto = "Sergio Brito";
+var nombreCompleto = "Sergio Brito"; //estilo camelCase
 
-var nombre_completo = "Sergio Brito";
+var nombre_completo = "Sergio Brito"; //estilo snake
 
 
 function saludarPersona(){
