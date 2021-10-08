@@ -8,6 +8,7 @@ var tienda = {
         return mensaje;
     }
 };
+//java script no exige el punto y coma pero es importante agregarlo para entender mejor el codigo
 
 var btnSaludar = document.getElementById("btnSaludar");
 

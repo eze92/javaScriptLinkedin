@@ -1,4 +1,7 @@
 
+//pagina que dice como documentar https://jsdoc.app/
+//sublime-jsdocs libreria para sublime para agregar comentarios 
+
 /**
  * [nombre description]
  * @type {String}
