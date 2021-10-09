@@ -14,3 +14,5 @@ var btnSaludar = document.getElementById("btnSaludar");
 btnSaludar.addEventListener('click', function() {
     console.log(tienda.saludar());
 });
+
+//https://jshint.com/ pagina pare verfificar el codigo si esta correcto 
