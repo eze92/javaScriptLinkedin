@@ -16,3 +16,6 @@ btnSaludar.addEventListener('click', function() {
 });
 
 //https://jshint.com/ pagina pare verfificar el codigo si esta correcto 
+
+
+//mochajs para testing https://mochajs.org/
