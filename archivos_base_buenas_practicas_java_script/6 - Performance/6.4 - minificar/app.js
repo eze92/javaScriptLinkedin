@@ -4,3 +4,8 @@ console.log("Nuestro código ha sido ofuscado");
 console.log(tienda.nombre);
 console.log(tienda.calcular(20, 32));
 console.log(tienda.saludar());
+
+
+
+///https://jscompress.com/ pagina para minificar el codigo en una linea pero no esta obfuscado
+//https://obfuscator.io/  pagina para obfucar el codigo
