@@ -1,4 +1,5 @@
-//esto toma los datos del archivos json
+//esto toma los datos del archivos json y el 2do parametro indico que va hacer con los datos
+//pasa los datos a la variable productos de la funcion anonima
 //$.getJSON("productos.json", function(productos){
 
 //datos tomados de un archivo json remoto
